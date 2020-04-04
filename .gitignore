@@ -1,2 +1,8 @@
 .venv
 .venv/*
+*.sqlite3
+/.venv/*
+/.venv/
+/.idea/*
+/.idea/
+.idea/*
